@@ -6,9 +6,8 @@
 
 <p>
 
-I’m a third-year Computer Science student exploring the **Cloud and DevOps** ecosystem—actively building a strong foundation in cloud platforms (specifically Amazon Web Services (AWS)), CI/CD pipelines, containerization, and Infrastructure as Code (IaC). I’m particularly interested in how infrastructure, automation, and code come together to create systems that are scalable, reliable, and human-centered.
+I’m a third-year Computer Science student exploring the **Cloud and DevOps** ecosystem—actively building a strong foundation in cloud platforms (specifically Amazon Web Services (AWS)), CI/CD pipelines, containerization, and Infrastructure as Code (IaC). Aside from that, I am continuously strengthening my background in **Software Engineering, Artificial Intelligence, and Embedded Systems**, with an emphasis on system design, problem-solving, real-world applications, and building accessible and user-aware solutions.
 
-Aside from that, I am continuously strengthening my background in **Software Engineering, Artificial Intelligence, and Embedded Systems**, with an emphasis on system design, problem-solving, real-world applications, and building accessible and user-aware solutions.
 </p>
 
 <h3>Tech Stack</h3>
@@ -32,8 +31,6 @@ Aside from that, I am continuously strengthening my background in **Software Eng
 ![Docker](https://img.shields.io/badge/Docker-588157?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-588157?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-588157?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-588157?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-588157?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </p>
 
