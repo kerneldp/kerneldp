@@ -6,7 +6,7 @@
 
 <p>
 
-I’m a third-year Computer Science student exploring the **Cloud and DevOps** ecosystem—actively building a strong foundation in cloud platforms (specifically Amazon Web Services (AWS)), CI/CD pipelines, containerization, and Infrastructure as Code (IaC). Aside from that, I am continuously strengthening my background in **Software Engineering, Artificial Intelligence, and Embedded Systems**, with an emphasis on system design, problem-solving, real-world applications, and building accessible and user-aware solutions.
+I’m a third-year Computer Science student exploring the **Cloud and DevOps** ecosystem—actively building a strong foundation in cloud platforms (specifically Amazon Web Services (AWS)), CI/CD pipelines, containerization, and Infrastructure as Code (IaC). Aside from that, I am continuously strengthening my background in **Software Engineering, Artificial Intelligence, and Embedded Systems**, with an emphasis on system design, problem-solving, real-world applications, and building human-centered solutions.
 
 </p>
 
